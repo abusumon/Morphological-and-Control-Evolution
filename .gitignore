@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+runs/
+*.tmp
+run.lock
+.DS_Store
